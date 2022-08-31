@@ -1,1 +1,18 @@
-/* Copy and paste your CSS from CodePen into here */
+title {
+    font-size: 400%;
+    width: 60vmax;
+  }
+  
+  .center {
+    margin: auto;
+    padding: auto;
+    text-align: center;
+  }
+  
+  #image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  
